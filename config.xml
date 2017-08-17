@@ -6,18 +6,18 @@
         id        = "com.phonegap.jappnai"
         version   = "1.0.0">
 
-    <name>Hello World</name>
+    <name>GymApp</name>
 
     <description>
-        Hello World sample application that responds to the deviceready event.
+        Esta es una aplicacion de Gym, contiene Rutinas y como llevar una alimentacion y vida sana
     </description>
 
-    <author href="http://jappnai.com" email="stone_hbk619@live.com">
-        PhoneGap Team
+    <author href="http://www.inusualsoft.com" email="stone_hbk619@live.com">
+        Inusual Soft Team
     </author>
 
     <!-- Define the main entry-point to the application -->
-    <content src="index.html" />
+    <content src="index.HTML" />
 
     
 
